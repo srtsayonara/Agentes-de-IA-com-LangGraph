@@ -1,5 +1,3 @@
-# Agentes-de-IA-com-LangGraph
-
 # Agente de IA sobre o Impacto da IA na Educação 🤖📚
 
 Um agente inteligente construído com **LangGraph** e **LangChain** que responde perguntas sobre o impacto da Inteligência Artificial na educação. Ele é capaz de raciocinar, decidir quando buscar informações atualizadas na web, e responder através de uma interface interativa criada com **Gradio**.
@@ -61,36 +59,23 @@ Esse projeto foi meu primeiro contato real com orquestração de agentes, feito 
 
 ---
 
-## 🚀 Como rodar o projeto
+## 🎬 Demonstração
 
-O projeto foi desenvolvido para rodar no **Google Colab**, então basta abrir o notebook e executar as células em ordem:
+Abaixo, um clipe curto mostrando o agente recebendo uma pergunta e retornando a resposta em tempo real:
 
-```bash
-# se preferir rodar localmente:
-git clone https://github.com/srtsayonara/NOME-DO-SEU-REPO.git
-cd NOME-DO-SEU-REPO
+<!-- Opção 1: GIF (recomendado, funciona direto no README)
+![Demo do agente respondendo](./assets/demo.gif)
+-->
 
-# instalar dependências
-pip install -r requirements.txt
 
-# configurar variáveis de ambiente
-cp .env.example .env
-# adicione sua chave da API do Google Gemini (e da ferramenta de busca, se usar)
 
-# executar
-python app.py
-```
+### 📸 Imagens do projeto
 
-A interface do Gradio abre automaticamente e você já pode conversar com o agente.
+<img src="./assets/interface.png" alt="Interface do agente no Gradio" width="700"/>
 
----
+<img src="./assets/grafo.png" alt="Grafo do LangGraph mostrando os nós do agente" width="700"/>
 
-## 🔮 Próximos passos
-
-- [ ] Adicionar memória para o agente lembrar perguntas anteriores na mesma sessão
-- [ ] Incluir mais ferramentas além da busca web (ex: busca de artigos acadêmicos)
-- [ ] Melhorar o rastreamento de custo/uso de tokens
-- [ ] Publicar em produção (Hugging Face Spaces ou similar)
+<img src="./assets/resposta.png" alt="Exemplo de resposta do agente" width="700"/>
 
 ---
 
