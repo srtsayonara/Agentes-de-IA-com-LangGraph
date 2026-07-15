@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Concluído-green)
+
 # Agente de IA sobre o Impacto da IA na Educação 🤖📚
 
 Um agente inteligente construído com **LangGraph** e **LangChain** que responde perguntas sobre o impacto da Inteligência Artificial na educação. Ele é capaz de raciocinar, decidir quando buscar informações atualizadas na web, e responder através de uma interface interativa criada com **Gradio**.
