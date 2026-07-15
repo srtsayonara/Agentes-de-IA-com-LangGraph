@@ -88,4 +88,10 @@ Abaixo, um clipe curto mostrando o agente recebendo uma pergunta e retornando a 
 
 ## 👩‍💻 Sobre
 
-Projeto desenvolvido por [Carla](https://github.com/srtsayonara) durante a trilha de IA Tech do programa **Oracle Next Education (ONE)**, em parceria com a **Alura**.
+Projeto desenvolvido  durante a trilha de IA Tech do programa **Oracle Next Education (ONE)**, em parceria com a **Alura**.
+Autora
+
+**Carla Sayonara Freitas**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-blue)](https://www.linkedin.com/in/carla-sayonara-freitas-33599b183/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfólio-black)](https://github.com/srtsayonara)
