@@ -63,20 +63,24 @@ Esse projeto foi meu primeiro contato real com orquestração de agentes, feito 
 
 Abaixo, um clipe curto mostrando o agente recebendo uma pergunta e retornando a resposta em tempo real:
 
-<!-- Opção 1: GIF (recomendado, funciona direto no README)
-![<img width="692" height="388" alt="executandooagente" src="https://github.com/user-attachments/assets/aa484f6b-fe38-4b3a-a87f-92b8ef3d1393" />
-](./assets/demo.gif)
--->
+<img width="692" height="388" alt="executandooagente" src="https://github.com/user-attachments/assets/830fdcbe-15da-4be0-9b80-b672dea0ad7d">
+
 
 
 
 ### 📸 Imagens do projeto
 
-<img src="./assets/interface.png" alt="Interface do agente no Gradio" width="700"/>
+### Interface do agente pelo Gradio
+<img width="1366" height="768" alt="interface" src="https://github.com/user-attachments/assets/7f1473b8-9d13-4283-8b2c-1dc839cb609d" />
 
-<img src="./assets/grafo.png" alt="Grafo do LangGraph mostrando os nós do agente" width="700"/>
+### Pergutando pro agente
+<img width="1366" height="768" alt="Captura de tela de 2026-07-15 01-15-27" src="https://github.com/user-attachments/assets/c42babb5-2f02-4cf5-9b3a-f75e8d485da4" />
 
-<img src="./assets/resposta.png" alt="Exemplo de resposta do agente" width="700"/>
+
+### Resposta do agente
+
+<<img width="1366" height="768" alt="Captura de tela de 2026-07-15 01-15-48" src="https://github.com/user-attachments/assets/16963d45-94a8-4b99-80f5-58438b66f063" />
+
 
 ---
 
