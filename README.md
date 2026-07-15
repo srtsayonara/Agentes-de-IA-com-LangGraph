@@ -64,7 +64,8 @@ Esse projeto foi meu primeiro contato real com orquestração de agentes, feito 
 Abaixo, um clipe curto mostrando o agente recebendo uma pergunta e retornando a resposta em tempo real:
 
 <!-- Opção 1: GIF (recomendado, funciona direto no README)
-![Demo do agente respondendo](./assets/demo.gif)
+![<img width="692" height="388" alt="executandooagente" src="https://github.com/user-attachments/assets/aa484f6b-fe38-4b3a-a87f-92b8ef3d1393" />
+](./assets/demo.gif)
 -->
 
 
